@@ -1,0 +1,12 @@
+streamlit 
+ipykernel
+pandas
+langchain
+langchain_community
+langchain_core
+python-dotenv
+langchain-ollama
+unstructured[pdf]
+onnx==1.16.1
+chromadb
+langchain-chroma

@@ -3,8 +3,6 @@ Hello Developers!
 
 **Project Name:** Failure Analysis from engineers comments
 
-**Table of Contents**
-
 # **Introduction**
 
 Failure Mode Analysis is a crucial task in Natural Language Processing (NLP) that involves analyzing comments from various sources and various departments, various platforms or forums, to extract insights and failure information. This project uses OLLAMA LLAMA3.2 3B, a lightweight and efficient transformer-based language model, and Langichain framework, to develop an end-to-end comment analysis pipeline.
